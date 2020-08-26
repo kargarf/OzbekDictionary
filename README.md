@@ -1,0 +1,2 @@
+# OzbekDictionary
+Online Web Dictionary
