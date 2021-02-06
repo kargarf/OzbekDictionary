@@ -2,4 +2,4 @@
 Online Web Dictionary
 http://ozbek.somee.com/
 
-.Net Core & Entity Framwork Core & Identity & Web Api
+ASP.NET Core Core & Entity Framwork Core & ASP.NET Core Identity & Web Api & Bootstrap
